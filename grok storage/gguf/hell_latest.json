@@ -1,0 +1,24 @@
+{
+  "name": "hell:latest",
+  "model": "hell:latest",
+  "modified_at": "2026-11-23T21:09:23.635102966-04:00",
+  "size": 1738451197,
+  "digest": "55fc3abd386771e5b5d1bbcc732f3c3f4df6e9f9f08f1131f9cc27ba2d1eec5b",
+  "details": {
+    "parent_model": "",
+    "format": "gguf",
+    "family": "phi2",
+    "families": [
+      "phi2",
+      "clip"
+    ],
+    "parameter_size": "1B",
+    "quantization_level": "Q4_0",
+    "context_length": 2048,
+    "embedding_length": 2048
+  },
+  "capabilities": [
+    "completion",
+    "vision"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "aspect": "grok",
+  "ingest_into": "llama3.2:latest",
+  "format": "gguf",
+  "dedup_key": "grok-aspect-v1",
+  "map": {
+    "grok-4.7": "llama3.2:latest",
+    "grok-4.6": "llama3.2:latest",
+    "grok-4.5": "llama3.2:latest",
+    "grok-4.3": "llama3.2:latest",
+    "grok-4.20": "llama3.2:latest",
+    "grok-4.1": "llama3.2:latest",
+    "grok-4": "llama3.2:latest",
+    "grok-3": "llama3.2:latest",
+    "grok-1": "llama3.2:latest"
+  }
+}
